@@ -1,5 +1,5 @@
 {
   code: 10,
-  description: "",
-  url: ""
+  description: "Teste de atualização",
+  url: "https://raw.githubusercontent.com/magicstudiogames/UpdateManager/refs/heads/main/app-release.apk"
 }
